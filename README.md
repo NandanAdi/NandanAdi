@@ -29,6 +29,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;
                               <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> </p>
+                              <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp;
+                              <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="figma" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> </p>
+
 
 
 
